@@ -1,0 +1,14 @@
+C:\Users\BURAK\Desktop\ödev\BZ102_1030510077_Bütünleme\LabirentOyunu\LabirentOyunu\bin\Release\LabirentOyunu.exe.config
+C:\Users\BURAK\Desktop\ödev\BZ102_1030510077_Bütünleme\LabirentOyunu\LabirentOyunu\bin\Release\LabirentOyunu.exe
+C:\Users\BURAK\Desktop\ödev\BZ102_1030510077_Bütünleme\LabirentOyunu\LabirentOyunu\bin\Release\LabirentOyunu.pdb
+C:\Users\BURAK\Desktop\ödev\BZ102_1030510077_Bütünleme\LabirentOyunu\LabirentOyunu\obj\Release\LabirentOyunu.csprojAssemblyReference.cache
+C:\Users\BURAK\Desktop\ödev\BZ102_1030510077_Bütünleme\LabirentOyunu\LabirentOyunu\obj\Release\LabirentOyunu.csproj.CoreCompileInputs.cache
+C:\Users\BURAK\Desktop\ödev\BZ102_1030510077_Bütünleme\LabirentOyunu\LabirentOyunu\obj\Release\LabirentOyunu.exe
+C:\Users\BURAK\Desktop\ödev\BZ102_1030510077_Bütünleme\LabirentOyunu\LabirentOyunu\obj\Release\LabirentOyunu.pdb
+C:\Users\BURAK\Desktop\ödev\BZ102_1030510077\LabirentOyunu\LabirentOyunu\bin\Release\LabirentOyunu.exe.config
+C:\Users\BURAK\Desktop\ödev\BZ102_1030510077\LabirentOyunu\LabirentOyunu\bin\Release\LabirentOyunu.exe
+C:\Users\BURAK\Desktop\ödev\BZ102_1030510077\LabirentOyunu\LabirentOyunu\bin\Release\LabirentOyunu.pdb
+C:\Users\BURAK\Desktop\ödev\BZ102_1030510077\LabirentOyunu\LabirentOyunu\obj\Release\LabirentOyunu.csprojAssemblyReference.cache
+C:\Users\BURAK\Desktop\ödev\BZ102_1030510077\LabirentOyunu\LabirentOyunu\obj\Release\LabirentOyunu.csproj.CoreCompileInputs.cache
+C:\Users\BURAK\Desktop\ödev\BZ102_1030510077\LabirentOyunu\LabirentOyunu\obj\Release\LabirentOyunu.exe
+C:\Users\BURAK\Desktop\ödev\BZ102_1030510077\LabirentOyunu\LabirentOyunu\obj\Release\LabirentOyunu.pdb

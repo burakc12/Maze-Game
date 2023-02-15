@@ -1,0 +1,7 @@
+C:\Users\BURAK\Desktop\ödev\BZ102_1030510077_Bütünleme\LabirentOyunu\LabirentOyunu\bin\Debug\LabirentOyunu.exe.config
+C:\Users\BURAK\Desktop\ödev\BZ102_1030510077_Bütünleme\LabirentOyunu\LabirentOyunu\bin\Debug\LabirentOyunu.exe
+C:\Users\BURAK\Desktop\ödev\BZ102_1030510077_Bütünleme\LabirentOyunu\LabirentOyunu\bin\Debug\LabirentOyunu.pdb
+C:\Users\BURAK\Desktop\ödev\BZ102_1030510077_Bütünleme\LabirentOyunu\LabirentOyunu\obj\Debug\LabirentOyunu.csprojAssemblyReference.cache
+C:\Users\BURAK\Desktop\ödev\BZ102_1030510077_Bütünleme\LabirentOyunu\LabirentOyunu\obj\Debug\LabirentOyunu.csproj.CoreCompileInputs.cache
+C:\Users\BURAK\Desktop\ödev\BZ102_1030510077_Bütünleme\LabirentOyunu\LabirentOyunu\obj\Debug\LabirentOyunu.exe
+C:\Users\BURAK\Desktop\ödev\BZ102_1030510077_Bütünleme\LabirentOyunu\LabirentOyunu\obj\Debug\LabirentOyunu.pdb
